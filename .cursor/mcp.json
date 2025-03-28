@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "sumerian": {
+            "command": "mcp",
+            "args":[
+                "run",
+                "C:/Users/devra/StudioProjects/devramMCP/sumerian_mcp/sumerian_mcp/server.py"
+            ]
+        }
+    }
+}
